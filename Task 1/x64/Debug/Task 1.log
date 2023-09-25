@@ -1,0 +1,4 @@
+﻿  Task 1.cpp
+C:\Users\Пилот737\Desktop\Домашки\Базовое программирование\Lesson 1\Task 1\Task 1.cpp(95,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пилот737\Desktop\Домашки\Базовое программирование\Lesson 1\Task 1\Task 1.cpp(104,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Task 1.vcxproj -> C:\Users\Пилот737\Desktop\Домашки\Базовое программирование\Lesson 1\x64\Debug\Task 1.exe
